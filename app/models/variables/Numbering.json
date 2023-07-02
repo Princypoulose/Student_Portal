@@ -1,0 +1,4 @@
+[
+  {"Variable": "_id", "Format": "ObjectId", "Required": false},
+  {"Variable": "number", "Format": "int", "Required": false}
+]

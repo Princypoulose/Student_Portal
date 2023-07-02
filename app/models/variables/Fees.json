@@ -1,0 +1,7 @@
+[
+  {"Variable": "_id", "Format": "ObjectId", "Required": false},
+  {"Variable": "student_id", "Format": "ObjectId", "Required": false},
+  {"Variable": "fees", "Format": "str", "Required": false},
+  {"Variable": "invoice_id", "Format": "str", "Required": false},
+  {"Variable": "is_paid", "Format": "bool", "Required": false}
+]

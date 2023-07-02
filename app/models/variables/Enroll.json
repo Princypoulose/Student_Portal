@@ -1,0 +1,6 @@
+[
+  {"Variable": "_id", "Format": "ObjectId", "Required": false},
+  {"Variable": "course_id", "Format": "ObjectId", "Required": false},
+  {"Variable": "student_id", "Format": "ObjectId", "Required": false},
+  {"Variable": "enrolled_date", "Format": "date", "Required": false}
+]

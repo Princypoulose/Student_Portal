@@ -1,0 +1,8 @@
+[
+  {"Variable": "_id", "Format": "ObjectId", "Required": false},
+  {"Variable": "course_id", "Format": "str", "Required": false},
+  {"Variable": "course_name", "Format": "str", "Required": false},
+  {"Variable": "fees", "Format": "int", "Required": false},
+  {"Variable": "status", "Format": "str", "Required": false},
+  {"Variable": "term", "Format": "int", "Required": false}
+]
